@@ -2,7 +2,6 @@
 
 class Queue:
     def __init__(self) -> None:
-
         self.queue  = []
     
     # Add an element
@@ -34,3 +33,5 @@ newQueue.displayQueue()
 newQueue.dequeue()
 newQueue.dequeue()
 newQueue.displayQueue()
+
+
